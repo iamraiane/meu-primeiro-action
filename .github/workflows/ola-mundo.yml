@@ -7,4 +7,4 @@ jobs:
       - name: Dizer ola
         run: echo "Olá Raiane."
       - name: Dizer ola
-        run: echo "Ola, tudo bem?"
+        run: date

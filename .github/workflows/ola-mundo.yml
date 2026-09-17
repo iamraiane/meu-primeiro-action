@@ -1,7 +1,7 @@
 name: Ola Mundo
 on: push
 jobs:
-  saudacao:
+  minha-tarefa:
     runs-on: ubuntu-latest
     steps:
       - name: Dizer ola

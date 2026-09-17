@@ -6,3 +6,5 @@ jobs:
     steps:
       - name: Dizer ola
         run: echo "Olá Raiane."
+      - name: Dizer ola
+        run: echo "Ola, tudo bem?"
